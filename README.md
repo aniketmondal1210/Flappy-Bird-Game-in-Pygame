@@ -46,11 +46,14 @@ A simple Flappy Bird clone built using **Python** and the **Pygame** library. Fl
 
 2. **Install dependencies**:
 
+   ```bash
     pip install pygame
 
 3. **Run the game**:
 
+```bash
     python flappy_bird.py
+```
 
 📁 File Structure
 
