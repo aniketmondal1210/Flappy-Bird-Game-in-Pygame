@@ -58,7 +58,9 @@ A simple Flappy Bird clone built using **Python** and the **Pygame** library. Fl
 📁 File Structure
 
 flappy-bird-python/
+
 ├── flappy_bird.py        # Main game code
+
 └── README.md             # Project documentation
 
 📌 Future Improvements
